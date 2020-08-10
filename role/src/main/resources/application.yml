@@ -1,0 +1,10 @@
+server:
+  port: 8002
+
+spring:
+  application:
+    name: roles
+
+logging:
+  level:
+    org.springframework.web: DEBUG

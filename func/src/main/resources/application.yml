@@ -1,0 +1,11 @@
+server:
+  port:
+    8003
+
+spring:
+  application:
+    name: funcs
+
+logging:
+  level:
+    org.springframework.web: DEBUG
